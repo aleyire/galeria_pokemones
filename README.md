@@ -7,16 +7,12 @@ Desafío que consiste en un sitio web que muestra la imagen de 150 pokemones cad
 
 ### Materia aplicada:
 
-- La asincronía
-
 ![](https://github.com/aleyire/galeria_pokemones/blob/main/img/eevee.gif)
-
+- La asincronía
 - Resolviendo un caso asíncrono
 - Usando la asincronía en Node
-
-![](https://github.com/aleyire/galeria_pokemones/blob/main/img/lugia.gif)
-
 - La asincronía y el consumo de APIs
+![](https://github.com/aleyire/galeria_pokemones/blob/main/img/lugia.gif)
 
 ### Visualización
 ![](img/preview.png)
