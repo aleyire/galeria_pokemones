@@ -1,1 +1,1 @@
-### Galería personalizada de pokemones ϞϞ(๑⚈ ․̫ ⚈๑)∩
+### Galería personalizada de pokemones
